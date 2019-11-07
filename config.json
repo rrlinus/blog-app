@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_url":"mysql://root:@localhost/codingthunder",
+    "prod_url": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gt_url": "https://github.com/codingthunder",
+    "blog_url": "coding thunder",
+    "tag_line": "A blog liked by the Programmers",
+    "web_name": "codinghunder",
+    "gmail-user": "@gmail",
+    "gmail-password": "@gmailpassword",
+    "about-text": "Hi i am Rakesh i create programming tutorial and i am developer",
+    "no_of_posts":1,
+    "login_img": "login.svg",
+    "admin_user":"rakesh",
+    "admin_password": "subscribe",
+    "upload_location": "C:\\py\\Flask-tut\\static"
+  }
+}
